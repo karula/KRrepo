@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="itcollege"
+		module="i377-praks1"
+		revision="working@K-PC"
+		conf="build"
+		confs="build, runtime, source"
+		date="20121014131428"/>
+	<dependencies>
+		<module organisation="javax.servlet" name="javax.servlet-api">
+			<revision name="3.0.1" status="release" pubdate="20110712224053" resolver="public" artresolver="main" homepage="http://servlet-spec.java.net" downloaded="false" searched="false" default="false" conf="default, compile, runtime, master" position="0">
+				<license name="CDDL + GPLv2 with classpath exception" url="https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html"/>
+				<metadata-artifact status="no" details="" size="3918" time="0" location="C:\kodune\Kodune\ivy\javax.servlet\javax.servlet-api\ivy-3.0.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.pom"/>
+				<caller organisation="itcollege" name="i377-praks1" conf="source, runtime, build" rev="3.0.1" rev-constraint-default="3.0.1" rev-constraint-dynamic="3.0.1" callerrev="working@K-PC"/>
+				<artifacts>
+					<artifact name="javax.servlet-api" type="jar" ext="jar" status="no" details="" size="85353" time="0" location="C:\kodune\Kodune\ivy\javax.servlet\javax.servlet-api\jars\javax.servlet-api-3.0.1.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
