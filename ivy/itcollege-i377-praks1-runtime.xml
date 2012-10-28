@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="itcollege"
+		module="i377-praks1"
+		revision="working@K-PC"
+		conf="runtime"
+		confs="build, runtime, source"
+		date="20121014131428"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
